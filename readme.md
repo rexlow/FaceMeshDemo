@@ -15,3 +15,9 @@ Disadvantages:
 
 1. Only supports devices from iPhone X and above
 2. It is not portable for Android counterparts. It means for business purposes, it is not possible to deliver the same experience for our customers using Android devices :(
+
+Demo video :)
+
+
+https://user-images.githubusercontent.com/7680796/117015608-79debb00-ad24-11eb-9a12-1d91006083af.mov
+

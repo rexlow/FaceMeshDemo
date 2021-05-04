@@ -1,6 +1,6 @@
 ## Face Mesh with iOS ARKit + SceneKit
 
-So I was exploring ways to deploy face landmark detector onto a mobile environment. The only way I know how was to either delpoy with [Tensorflow Lite](https://www.tensorflow.org/lite) or [PyTorch Mobile](https://pytorch.org/mobile/home/).
+So I was exploring ways to deploy face landmark detector onto a mobile environment. The only way I know how was to either deploy with [Tensorflow Lite](https://www.tensorflow.org/lite) or [PyTorch Mobile](https://pytorch.org/mobile/home/).
 
 Both of them are great in terms of inference speed and accuracy, but nothing beats the native SDK! Check out the [Face API from Apple here](https://developer.apple.com/documentation/arkit/content_anchors/tracking_and_visualizing_faces)
 
